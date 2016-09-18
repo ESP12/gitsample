@@ -1,0 +1,74 @@
+body{
+	background-image: url(../images/fox-07.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: inherit;
+}
+h3{
+	font-family: sans-serif;
+
+}
+hr{
+	border-color: #c18f14;
+	box-shadow: 2px 2px 5px #b7b7b7
+}
+#title{
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: #944c0c;
+}
+#titleSeparator{
+	border-color: #c36a1a;
+    height: 1px;
+    width: 25pc;
+    box-shadow: 0px -5px 20px #716262;
+    position: relative;
+    top: -1.4pc;
+}
+p{
+	background-color: rgba(148, 116, 60, 0.22);
+    border-radius: 20px;
+    align-items: center;
+    padding: 1.1pc;
+    width: 95pc;
+    margin: auto;
+    font-size: x-large;
+    font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    color: #65350a;
+}
+h2{
+	font-family: Candara, Calibri, Segoe;
+    font-size: x-large;
+    color: #b55e0f;
+    font-weight: 800;
+    margin-left: 3pc;
+    margin-right: 3pc;
+    background: #d6b28b;
+    text-align: center;
+    border-radius: 20px
+}
+#endingLine{
+	border-color: #c36a1a;
+    height: 1px;
+    width: 25pc;
+    box-shadow: 0px -5px 20px #716262;
+    position: relative;
+    bottom: -2pc;
+    margin-bottom: 2pc;
+}
+
+.childPic{
+    margin-top: 55px;
+    margin-left: 35px;
+    height: 200px;
+    width: 260px;
+}
+
+.teenPic{
+    width: 235px;
+    height: 200px;
+    margin-top: 55px;
+    margin-left: 20px;
+
+}

@@ -1,0 +1,163 @@
+.container{
+	margin: 0px;
+    padding: 0px;
+}
+
+#header{
+	height: 5pc;
+    background-color: #353535;
+}
+#navArea{
+	float: right;
+    height: 80px;
+    position: relative;
+    right: -14px;
+}
+
+#buttonHome{
+	text-decoration: none;
+}
+
+#buttonBio{
+	text-decoration: none;
+}
+
+#buttonGallery{
+	text-decoration: none;
+}
+
+#buttonPlaces{
+	text-decoration: none;
+}
+
+.button{
+	font-family: "Neoteric";
+    font-size: 35px;
+    position: relative;
+    top: 10px;
+    color: #FFFFFF;
+    margin-right: 55px;
+}
+.logo{
+    width: 80px;
+    height: 70px;
+    padding: 0 0 0 0;
+    margin-top: 5px
+}
+
+#bgBio{
+    background-image: url(../images/bg_Bio.png);
+    background-size: cover;
+    height: 720px;
+}
+
+.navBio{
+    height: 180px;
+    margin-top: 540px;
+    background-color: rgba(0,0,0,0.25);
+}
+
+.messageBox{
+     height: inherit;
+     background-color: #464646;
+}
+
+h1{
+	color: white;
+}
+
+p{
+	margin-top: 45px;
+    font-family: "Roboto";
+    font-weight: lighter;
+    color: #dcdcdc;
+    text-align: left;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+#imageArea{
+    height: 432px;
+    background-size: 239px 454px,225px 452px,222px 444px;
+    background-image: url(../images/Pics/Childhood/child_1.jpg)
+    ,url(../images/Pics/Childhood/child_2.jpg)
+    ,url(../images/Pics/Childhood/child_3.jpg);
+    background-repeat: no-repeat;
+    background-position: 0px,239px,461px;
+}
+
+#teenArea{
+	float: right;
+}
+
+#imageAreaTeen{
+	 height: 454px;
+    background-size: 239px 454px,225px 457px,222px 463px;
+    background-image: url(../images/Pics/Teenage/teen_5.jpg)
+    ,url(../images/Pics/Teenage/teen_10.jpg)
+    ,url(../images/Pics/Teenage/teen_8.jpeg);
+    background-repeat: no-repeat;
+    background-position: 0px,239px,461px;
+}
+
+#imageAreaCollage{
+	height: 410px;
+    background-size: 239px 454px,225px 452px,222px 444px;
+    background-image: url(../images/Pics/College/college_3.jpg)
+    ,url(../images/Pics/College/college_8.jpg)
+    ,url(../images/Pics/College/college_1.jpg);
+    background-repeat: no-repeat;
+    background-position: 0px,239px,461px;
+}
+
+.linkPart{
+	font-family: "Neoteric";
+    font-size: 35px;
+    color: #FFFFFF;
+    margin-right: 55px;
+}
+
+.footerbutton{
+    font-family: "Caviar Dreams";
+    /* position: relative; */
+    font-size: 15px;
+    top: 10px;
+    color: #989898;
+    margin-left: 20px;
+    /* margin-right: 55px; */
+}
+
+.footer{
+       height: 140px;
+    background-color: #353535;
+}
+
+#listButton{
+    margin-top: 20px;
+    float: left;
+    width: 430px;
+}
+#listContacts{
+    float: right;
+    margin-right: 65px;
+}
+
+h5{
+    font-size: 17px;
+    color: #757575;
+    font-family: "Roboto";
+    font-weight: lighter;
+    margin: 3px;
+}
+.icon{
+    width: 25px;
+    height: 25px 
+}
+
+#copyright{
+    margin-top: 100px;
+    margin-left: 170px;
+    float: left;
+    font-size: 20px;
+}
+

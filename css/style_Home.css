@@ -1,0 +1,172 @@
+.container{
+    margin: 0px;
+    padding: 0px;
+}
+
+#header{
+	height: 5pc;
+    background-color: #353535;
+}
+#navArea{
+	float: right;
+    height: 80px;
+    position: relative;
+    right: -14px;
+}
+
+#buttonHome{
+	text-decoration: none;
+}
+
+#buttonBio{
+	text-decoration: none;
+}
+
+#buttonGallery{
+	text-decoration: none;
+}
+
+#buttonPlaces{
+	text-decoration: none;
+}
+
+.button{
+	font-family: "Neoteric";
+    font-size: 35px;
+    position: relative;
+    top: 10px;
+    color: #FFFFFF;
+    margin-right: 55px;
+}
+
+#bgWelcome{
+    background-image: url(../images/setsuna.png);
+    background-size: cover;
+    height: 720px;
+}
+
+#titleWelcome{
+    font-size: 110px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 100px;
+    color: white;
+}
+
+#titleSubWelcome{
+    font-size: 50px;
+    font-family: "Roboto";
+    font-weight: lighter;
+    margin-top: 10px;
+    color: white;
+}
+.messageBox{
+     height: 400px;
+     background-color: #464646;
+}
+
+.imageBio{
+    background-image: url(../images/Pics/Teenage/Teen_9.jpg);
+    height: 400px;
+    background-size: cover;
+}
+
+h1{
+    font-family: "Roboto";
+    color: white;
+}
+
+
+.logo{
+    width: 80px;
+    height: 70px;
+    padding: 0 0 0 0;
+    margin-top: 5px}
+
+p{
+    margin-top: 45px;
+    font-family: "Roboto";
+    font-weight: lighter;
+    color: #dcdcdc;
+    text-align: left;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.link{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "Roboto";
+    text-decoration: none;
+    border-style: solid;
+    border-width: thin;
+    padding: 10px;
+    margin-left: 295px;
+}
+
+#Gallery{
+    float: right;
+}
+
+.imageGal{
+    background-image: url(../images/bg_Gal.jpg);
+    height: 400px;
+    background-size: cover;
+}
+
+.imagePlace{
+    background-image: url(../images/bg_Places.jpg);
+    height: 400px;
+    background-size: cover;
+}
+
+
+
+
+.imageArea{
+    height: 38px;
+}
+
+.footerbutton{
+    font-family: "Caviar Dreams";
+    /* position: relative; */
+    font-size: 15px;
+    top: 10px;
+    color: #989898;
+    margin-left: 20px;
+    /* margin-right: 55px; */
+}
+
+.footer{
+       height: 140px;
+    background-color: #353535;
+}
+
+#listButton{
+    margin-top: 20px;
+    float: left;
+    width: 430px;
+}
+#listContacts{
+    float: right;
+    margin-right: 65px;
+}
+
+h1{
+    font-size: 17px;
+    color: #757575;
+    font-family: "Roboto";
+    font-weight: lighter;
+    margin: 3px;
+}
+.icon{
+    width: 25px;
+    height: 25px 
+}
+
+#copyright{
+    margin-top: 100px;
+    margin-left: 170px;
+    float: left;
+    font-size: 20px;
+}

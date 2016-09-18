@@ -1,0 +1,14 @@
+#btnBio{
+    margin-top: 70px;
+    margin-left: 100px;
+    height: 190px;
+    width: 440px;
+}
+
+#btnGallery{
+    margin-top: 70px;
+    margin-right: 100px;
+    height: 190px;
+    width: 440px;
+    float: right;
+}

@@ -1,0 +1,104 @@
+#header{
+	height: 5pc;
+    background-color: #353535;
+}
+#navArea{
+	float: right;
+    height: 80px;
+    /* margin-right: 0px; */
+    position: relative;
+    right: -14px;
+}
+
+#buttonHome{
+	text-decoration: none;
+}
+
+#buttonBio{
+	text-decoration: none;
+}
+
+#buttonGallery{
+	text-decoration: none;
+}
+
+#buttonPlaces{
+	text-decoration: none;
+}
+
+.button{
+	font-family: "Neoteric";
+    font-size: 35px;
+    position: relative;
+    top: 10px;
+    color: #FFFFFF;
+    margin-right: 55px;
+}
+
+#background{
+    background-image: url(../images/Places/Berlin.png);
+    background-size: cover;
+    height: 72pc;
+}
+
+p{
+    margin-top: 15px;
+    background-color: rgba(0,0,0,0.5);
+    font-family: "Roboto";
+    font-weight: lighter;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.paragraphArea{
+    margin-top: 515px;
+    margin-left: 40px;
+}
+
+.footerbutton{
+    font-family: "Caviar Dreams";
+    /* position: relative; */
+    font-size: 15px;
+    top: 10px;
+    color: #989898;
+    margin-left: 20px;
+    /* margin-right: 55px; */
+}
+
+.footer{
+       height: 140px;
+    background-color: #353535;
+}
+
+#listButton{
+    margin-top: 20px;
+    float: left;
+    width: 430px;
+}
+#listContacts{
+    float: right;
+    margin-right: 65px;
+}
+
+h1{
+    font-size: 17px;
+    color: #757575;
+    font-family: "Roboto";
+    font-weight: lighter;
+    margin: 3px;
+}
+.icon{
+    width: 25px;
+    height: 25px 
+}
+
+
+#copyright{
+    font-family: "Roboto";
+    font-weight: lighter;
+    margin-top: 100px;
+    margin-left: 170px;
+    float: left;
+    font-size: 20px;
+    color: white;
+}

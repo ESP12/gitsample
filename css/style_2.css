@@ -1,0 +1,96 @@
+.container{
+	margin: 0;
+}
+
+#header{
+	width: 1600px;
+    height: 130px;
+}
+
+#headStyle{
+	width: 1568px;
+    height: 135px;
+    align-items: center;
+}
+
+#buttonArea{
+	width: 1600px;
+    height: 200px;
+}
+
+.button{
+	width: 266px;
+    height: 67px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 186px;
+}
+
+#marginHead{
+	margin-top: 40px;
+}
+
+#marginBody{
+	margin-top: 385px;
+
+}
+
+#body{
+	width: 1600px;
+    height: 115pc;
+}
+
+.pictureArea{
+	height: 300px;
+}
+
+#teenArea{
+	height: 35pc;
+}
+
+.childPic{
+	margin-top: 55px;
+    margin-left: 35px;
+	height: 200px;
+    width: 260px;
+}
+
+.teenPic{
+	width: 235px;
+    height: 200px;
+    margin-top: 55px;
+    margin-left: 20px;
+
+}
+
+#marginFooter{
+	margin-top: 38pc;
+}
+
+#topBtn{
+	position: fixed;
+    top: 75%;
+    left: 94%;
+
+}
+
+#bottomBtn{
+	position: fixed;
+    top: 85%;
+    left: 94%;
+}
+
+h2{
+	font-weight: bold;
+	color: #2e99a5;
+}
+
+#header_2{
+	width: 1600px;
+    height: 130px;
+}
+
+#biographyPane{
+	height: 25pc;
+}
+
